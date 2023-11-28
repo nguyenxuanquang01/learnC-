@@ -1,0 +1,17 @@
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\bin\Debug\net8.0-windows\WindowGUI.exe
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\bin\Debug\net8.0-windows\WindowGUI.deps.json
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\bin\Debug\net8.0-windows\WindowGUI.runtimeconfig.json
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\bin\Debug\net8.0-windows\WindowGUI.dll
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\bin\Debug\net8.0-windows\WindowGUI.pdb
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\WindowGUI.Form1.resources
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\WindowGUI.csproj.GenerateResource.cache
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\WindowGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\WindowGUI.AssemblyInfoInputs.cache
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\WindowGUI.AssemblyInfo.cs
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\WindowGUI.csproj.CoreCompileInputs.cache
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\WindowGUI.sourcelink.json
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\WindowGUI.dll
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\refint\WindowGUI.dll
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\WindowGUI.pdb
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\WindowGUI.genruntimeconfig.cache
+C:\Users\QuangNguyen\Documents\Learn_C#\Winform\WindowGUI\WindowGUI\obj\Debug\net8.0-windows\ref\WindowGUI.dll

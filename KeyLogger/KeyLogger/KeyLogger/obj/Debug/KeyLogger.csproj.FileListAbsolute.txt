@@ -1,0 +1,7 @@
+C:\Users\QuangNguyen\Documents\Learn_C#\KeyLogger\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.config
+C:\Users\QuangNguyen\Documents\Learn_C#\KeyLogger\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
+C:\Users\QuangNguyen\Documents\Learn_C#\KeyLogger\KeyLogger\KeyLogger\bin\Debug\KeyLogger.pdb
+C:\Users\QuangNguyen\Documents\Learn_C#\KeyLogger\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.AssemblyReference.cache
+C:\Users\QuangNguyen\Documents\Learn_C#\KeyLogger\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\QuangNguyen\Documents\Learn_C#\KeyLogger\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe
+C:\Users\QuangNguyen\Documents\Learn_C#\KeyLogger\KeyLogger\KeyLogger\obj\Debug\KeyLogger.pdb
